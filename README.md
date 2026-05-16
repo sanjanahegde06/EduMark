@@ -1,6 +1,6 @@
 # 📊 EduMark
 
-**EduMark** is a **Student Marks Management System** built with Java Swing and MS SQL Server. It enables efficient tracking, insertion, and analysis of student marks while ensuring role-based access and secure data handling through stored procedures and triggers.
+**EduMark** is a **Student Marks Management System** built with Java Swing and MS SQL Server. It enables efficient tracking, insertion, and calculation of student marks while ensuring role-based access and secure data handling through stored procedures and triggers.
 
 ---
 
